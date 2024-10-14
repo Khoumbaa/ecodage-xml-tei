@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>AnnÃ©e 1784. Henriette Risteau Ã  Sophie Risteau</title>
+            <title>Correspondance. Tome I, Lettres de jeunesse (1784-1794)</title>
+            <author>Sophie Cottin</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Classiques Garnier <date>2021</date></edition>
+            <editor>KRIEF (Huguette)</editor>
+            <editor>CHOLLET (Mathilde)</editor>
+         </editionStmt>
+         <publicationStmt>
+            <authority> Khoumba NDIAYE</authority>
+            <date when="2024"/>
+         </publicationStmt>
+         <sourceDesc>
+            <p> 10.48611/isbn.978-2-406-11323-2.p.012</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text>
+      <body>
+            <dateline>ANNÃE 1784</dateline>
+            <head>1. HENRIETTE RISTEAU Ã SOPHIE RISTEAU</head>
+         <div type="lettre">
+            <p>Ah, ma chÃ¨re sÅur ! Que jâai vu de belles choses depuis que je ne tâai
+               Ã©crit, jâai vu <placeName>Ermenonville</placeName> et <placeName>Chantilly</placeName><note type="bdp">Le domaine de <placeName>Chantilly</placeName> appartient Ã  la famille <persName>de CondÃ©</persName>, ses jardins sont particuliÃ¨rement
+                  rÃ©putÃ©s. En <date type="y">1774</date>, le prince <persName>de CondÃ©</persName> modernise le parc, dont lâattraction principale est
+                  un jardin Ã  la franÃ§aise de <persName type="autorite">Le NÃ´tre</persName>, rivalisant avec celui de <placeName>Versailles</placeName>, en faisant dessine
+                  un jardin angloÂ­chinois. Câest pourquoi Â« <quote>il faudrait un volume entier, pour en faire une description exacte </quote>Â» (<ref>art. Â« Chantilly Â», Hurtaut et Magny, Dictionnaire historique de la ville de Paris et de ses environs, Paris, Moutard, 1779, t. I, p. 220</ref>).</note> qui sont les deux plus beaux endroits que jâai vus de ma vie.</p>
+            <p>Nous y fÃ»mes huit : M., Mme et Mlle <persName>Meuniez</persName><note><persName>Jean-Denis Meunier</persName> ou <persName>Meuniez</persName> (<date type="y-y">1727-1790</date>), directeur du bureau du contentieux de la
+               liquidation de la Compagnie des Indes (dont avait Ã©tÃ© chargÃ© <persName>Jacques Risteau</persName> en <date type="y">1771</date>),
+               a Ã©pousÃ© <persName>Marie-Madeleine Moranges</persName>. Ils ont deux filles, <persName>Marie-Madeleine</persName> et <persName>Marie-Catherine</persName>, cette derniÃ¨re est encore cÃ©libataire en <date type="y">1786</date>.</note> , M. <persName>de Fleury</persName> leur
+               gendre<note type="bdp"><persName>Marie-Madeleine Meuniez</persName> a Ã©pousÃ© <persName>Hubert-Jean-Baptiste Rohault de Fleury</persName>, avocat en
+                  Parlement et collÃ¨gue de son pÃ¨re, le <date type="dmy">2 septembre 1776</date>, Ã  <placeName>Romainville</placeName> (<ref>AN MC/ET/XXXV/791, contrat de mariage, 28 juillet 1776</ref>).</note>, MM. <persName>de MÃ©ry</persName><note type="bdp"><persName>Jean-FranÃ§ois MÃ©ry dâArcy</persName>, mort en <date type="y">1791</date>, occupe les fonctions de directeur pour la liquidation de la seconde Compagnie des Indes, comme <persName>Meuniez</persName>. Il est prÃ©sent au mariage
+                     des deux filles de <persName>Meuniez</persName> ; il a comme lui une grande maison Ã  <placeName>Romainville</placeName>. Voir
+                     <ref>HaudrÃ¨re, La Compagnie franÃ§aise des Indes au xviiie siÃ¨cle, Paris, Les Indes savantes, 2005, t. II, p. 1059</ref> ; et <ref>Claeys, Dictionnaire biographique des financiers en France au xviii e siÃ¨cle, Paris, SPM, 2011, t. II, p. 1600-1601</ref>.</note> et <persName>de Loulle</persName><note type="bdp"><persName>Jean-Edmond-BarthÃ©lemy  de Loulle</persName>, capitaine dâinfanterie, chevalier de Saint-Louis, est lui aussi prÃ©sent au mariage des deux filles de <persName>Meuniez</persName>.</note> leurs amis et Maman et moi. Nous
+               partÃ®mes le <date type="Ddm">jeudi 24 mai</date> au soir dans deux voitures, celle de M. <persName>Meuniez</persName>
+               qui est un carrosse coupÃ©<note type="bdp">Le carrosse coupÃ© nâa quâun fond (les rÃ©fÃ©rences Ã  lâ<title>EncyclopÃ©die</title> de Diderot et dâAlembert
+                  apparaissent sous la forme suivante : <ref>Couper (carrossier), Enc., IV, 351b)</ref>.</note> attelÃ© de trois chevaux et une berline<note type="bdp">Voiture hippomobile de ville ou de voyage, fermÃ©e, munie de portiÃ¨res vitrÃ©es, suspendue, Ã  deux fonds et quatre roues (<ref>art. Â« Berline Â», Acad., t. 1, p. 170</ref>).</note> louÃ©e<pb type="ed" n="128"/>
+               avec 4. Nous fÃ»mes coucher Ã  <placeName>Louvres</placeName> oÃ¹ il y a un chÃ¢teau assez beau
+               appartenant Ã  M. <persName>de La Haye</persName><note type="bdp">La commune de <placeName>Louvres</placeName> est Ã  30 km de <placeName>Paris</placeName>, sur la route de <placeName>Senlis</placeName> qui mÃ¨ne, Ã  lâouest,
+                  Ã  <placeName>Chantilly</placeName>, Ã  lâest, Ã  <placeName>Ermenonville</placeName>. Â« <quote>Entre lâannÃ©e 1754 et 1755, la terre de Louvres a
+                     Ã©tÃ© acquise par M. de La Haye de Bazainville, fermier gÃ©nÃ©ral, pour la somme de prÃ¨s
+                     de 200 000 livres</quote> Â», <ref>Art. Â« Louvres Â», Hurtaut et Magny, Dictionnaire historique de la ville
+                        de Paris, op. cit., 1779, t. III, p. 443</ref>.</note> et une ancienne Ã©glise assez curieuse<note type="bdp">Au xviiie siÃ¨cle, deux Ã©glises Ã  <placeName>Louvres</placeName> mÃ©ritent une visite : celle de Saint-Rieul (xie -xiie s.)
+                           qui possÃ©dait une Â« <quote>tour de pierre qui est fort belle et quâon aperÃ§oit de loin Ã  cause de son Ã©lÃ©vation</quote> Â». Et lâÃ©glise de Saint-Justin qui Â« <quote>paraÃ®t Ãªtre dâun gothique moderne [ ... ] le tout se termine en carrÃ©, ou en pignon vers Â­lâorient [ ... ] . Cet Ã©difice est sans clocher</quote> Â», <ref>loc. cit</ref>.</note>. Le
+               lendemain en allant Ã  <placeName>Ermenonville</placeName> nous nous arrÃªtÃ¢mes Ã  <placeName>Morfontaine</placeName> ;
+               câest un joli jardin anglais quâon doit trouver charmant avant dâavoir
+               [<corr type="ajout">vu</corr>] <placeName>Ermenonville</placeName> et <placeName>Chantilly</placeName>, mais bien mesquin aprÃ¨s<note type="bdp">Le marquis <persName>de Morfontaine</persName> est, avec <persName>Girardin</persName>, un des premiers Ã  diffuser en France la mode
+                  du jardin paysager dit Â« Ã  lâanglaise Â». <placeName>Morfontaine</placeName> est Ã  une lieue au sud dâ<placeName>Ermenonville</placeName>.</note>.   </p>
+            
+            <p>Enfin nous arrivÃ¢mes Ã  11 heures Ã  <placeName>Ermenonville</placeName>, Ã  ce lieu charmant
+               oÃ¹ lâart est si bien cachÃ© quâon croit voir la nature. Nous fÃ»mes logÃ©s chez
+               un M. <persName>Maurice</persName>, espÃ¨ce de paysan qui Ã©tait grand ami de <persName type="autorite">Rousseau</persName> et qui
+               a encore ses sabots et sa robe de chambre<note type="bdp"><persName>Antoine Maurice</persName> est lâaubergiste dâ<placeName>Ermenonville</placeName>. On a un aperÃ§u de ce que pouvaient
+                  Ãªtre ses conversations avec les visiteurs dans les mÃ©moires du curÃ© <persName>FranÃ§ois-Yves Besnard</persName>
+                  (<ref>Besnard, Un prÃªtre en RÃ©volution. Souvenirs dâun nonagÃ©naire, Ã©d. Martine Taroni, Rennes, Presses universitaires de Rennes, 2011, p. 193-195</ref>).</note>. <persName type="autorite">LâEmpereur</persName><note type="bdp"><persName type="autorite">Joseph II dâAutriche</persName> effectua le pÃ¨lerinage dâ<placeName>Ermenonville</placeName> en <date type="y">1777</date> et sa sÅur <persName type="autorite">Marie-Antoinette</persName> en <date type="y">1780</date>.</note> dÃ®na chez cet
+               homme lorsquâil vint voir <placeName>Ermenonville</placeName>, aussi y a-t-il sur la porte des vers
+               en son honneur. Nous commenÃ§Ã¢mes Ã  promener<note type="bdp">Ã la suite de <persName type="auteur">Vaugelas</persName> (<ref>Vaugelas, Remarques sur la langue franÃ§aise, Ã©d. Zygmunt Marzys,
+                  GenÃ¨ve, Droz, 2009, note 2, p. 144</ref>), on considÃ¨re que promener est un verbe intransitif.
+                  Lâusage en est attestÃ© chez les auteurs classiques.</note> en arrivant ; le chÃ¢teau
+               est entourÃ© dâeau et on y entre par des ponts-levis du chÃ¢teau ; on voit
+               devant soi une belle prairie entrecoupÃ©e de petits ruisseaux ; en nous rendant
+               Ã  la grotte de la cascade, nous trouvÃ¢mes Ã©crit sur un pilastre ces vers :</p>
+            <lg type="inscription"><l>Le Jardin, le bon ton, lâusage</l>
+               <l> Peut Ãªtre anglais, franÃ§ais, chinois</l>
+               <l>Mais les eaux les prÃ©s et les bois</l>
+               <l>La nature et le paysage</l>
+               <l>Sont de tout temps de tout pays</l>
+               <l>Câest pourquoi dans ce lieu sauvage</l>
+               <l>Tous les hommes seront amis</l>
+               <l>Et tous les langages admis</l></lg>
+            <pb type="ed" n="129"/>
+            <p><placeName>Ermenonville</placeName> est plein dâinscriptions. Il y a des gens qui blÃ¢ment
+               beaucoup M. <persName>de Girardin</persName> (Ã  qui il appartient) de les y avoir mises
+               disant quâil a voulu faire de lâesprit, mais pour nous cela nous a fort
+               amusÃ©es<note type="bdp">AprÃ¨s avoir voyagÃ© en <placeName>Angleterre</placeName>, <persName>RenÃ©-Louis marquis de Girardin</persName> (<date type="y-y">1735-1808</date>), sâinstalle
+                  Ã  <placeName>Ermenonville</placeName> en <date type="y">1766</date>. Il y crÃ©e un jardin Ã  lâanglaise et y accueille <persName>Rousseau</persName> en <date type="my">mai 1778</date>. AprÃ¨s la mort du <persName>Citoyen de GenÃ¨ve</persName>, Girardin fait dâ<placeName>Ermenonville</placeName> la sÃ©pulture
+                  et le lieu de culte de <persName>Rousseau</persName> ; il y Ã©rige des monuments et fait graver des inscriptions
+                  honorant le philosophe et son Åuvre.</note> . Nous arrivÃ¢mes Ã  la grotte de la cascade : elle est tout en
+               coquillages avec une cascade qui fait le plus bel effet du monde ; il
+               y a aussi dans la grotte une piÃ¨ce de vers, mais elle est si longue que
+               je ne te lâÃ©crirai pas<note type="bdp">Voir <ref>Girardin, De la composition des paysages, op. cit., p. 135</ref>.</note>. Ensuite nous traversÃ¢mes un bois charmant et
+               trÃ¨s grand avec des ruisseaux et des grottes sur une il y avait cette
+               inscription anglaise :</p>
+            <lg type="inscription" subtype="angl"><l>Between the groamy forest there studious let me sit</l>
+               <l>And hold night converse with the mighty dead</l></lg><note type="bdp">La copie dâ<persName>Henriette</persName> comporte deux erreurs : il faut lire <l>Between the <corr>gloomy</corr> forest</l>, puis
+                  <l>And hold <corr>high</corr> converse</l>.</note>
+            <p>Sur une autre :</p>
+            <lg type="inscription" subtype="angl"><l>Shower makes em both get in under the cliff of grove</l>
+               <l>Thunder they hear no more but only the sweet love</l></lg>
+            <p>Tout en promenant dans ce bois, nous vÃ®mes un ruisseau si limpide
+               et si charmant que nous nous arrÃªtÃ¢mes pour le regarder. Cela nous fit
+               apercevoir un piÃ©destal oÃ¹ il y avait Ã©crit :</p>
+            <lg type="inscription"><l>Coule gentil ruisseau sous cet Ã©pais feuillage</l>
+               <l>Ton bruit charme les sens il attendrit le cÅur</l>
+               <l>Coule gentil ruisseau car ton cours est lâimage</l>
+               <l>De celui dâun beau jour passÃ© dans le bonheur.</l></lg>
+            <p>Nous promenÃ¢mes toujours dans notre joli bois rencontrant de temps
+               en temps des chaumiÃ¨res, lorsque nous trouvÃ¢mes un autel Ã  la RÃªverie
+               oÃ¹ il y a en italien que ce sont les poÃ¨tes, les amants et les philosophes
+               qui y viennent. Enfin nous nous trouvÃ¢mes sur le bord de la riviÃ¨re oÃ¹
+               il y a un banc quâon appelle le banc des mÃ¨res de familles ; il y a dessus
+               en parlant de <persName type="autorite">Rousseau</persName> :</p>
+            <lg type="inscription"><l>>De la mÃ¨re Ã  lâenfant il rendit les tendresses</l>
+               <l>De lâenfant Ã  la mÃ¨re il rendit les caresses</l>
+               <l>De lâhomme Ã  sa naissance il fut le bienfaiteur</l>
+               <l>Et le rendit plus libre afin quâil fÃ»t meilleur</l></lg>
+            <p>Il [<corr type="ajout">y</corr>] a une pierre Ã  cÃ´tÃ© du banc oÃ¹ il y a :</p>
+            <lg type="inscription">
+               <l>LÃ  sous ces Peupliers dans ce simple tombeau</l>
+               <l>Quâentourent ces ondes paisibles</l>
+               <l>Sont les restes mortels de <persName type="autorite">Jean-Jacques Rousseau</persName></l>
+               <l>Mais câest dans tous les cÅurs sensibles</l>
+               <l>Que cet homme si bon qui fut tout sentiment</l>
+               <l>De son Ã¢me a fondÃ© lâÃ©ternel monument.</l></lg>
+            <p>Notre conducteur nous fit entrer dans une barque et nous mena Ã 
+               lâ<placeName>Ãle des Peupliers</placeName>, oÃ¹ est le tombeau de <persName type="autorite">Rousseau</persName> et qui est vis-Ã -vis
+               le banc des mÃ¨res de famille<note type="bdp">Le premier monument surmontÃ© dâune urne a Ã©tÃ© remplacÃ© en <date type="y">1780</date> par celui que dÃ©crit               <persName>Henriette</persName>.</note>. Le tombeau est de pierre et est parfaitement ressemblant Ã  la gravure que Papa a Ã  <placeName>Bordeaux</placeName><note>Voir la gravure de <persName type="auteur">Godefroy</persName> rÃ©alisÃ©e en <date type="y">1781</date> et rÃ©Ã©ditÃ©e aprÃ¨s <date type="y">1791</date> sous le titre <title>Aux
+                  Ã¢mes sensibles. Vue du tombeau de J.-J. Rousseau dans lâIsle des Peupliers Ã  Ermenonville</title> (<ref>BnF
+                     dÃ©partement Estampes et photographie, RESERVE QB-370 (46)-FT 4</ref>).</note>. Dâun cÃ´tÃ©, il
+               y a en bas-relief une femme qui nourrit un enfant et qui tient lâ<title>Ãmile</title>
+               quâelle lit, il y a encore un groupe dâenfants se jouant qui reprÃ©sentent
+               la libertÃ©. De lâautre cÃ´tÃ© est Ã©crit :</p>
+            <lg type="inscription"><l>Ici repose</l>
+               <l>Lâhomme de la nature et de la vÃ©ritÃ©</l></lg>
+            <p>En sortant de lâ<placeName>Ãle des Peupliers</placeName>, nous fÃ»mes voir une obÃ©lisque
+               dÃ©diÃ©e aux 4 chantres de la poÃ©sie pastorale.
+               Sur chaque face, il y a une inscription pour chaque auteur : Ã  <persName type="autorite">ThÃ©ocrite</persName>
+               en grec, Ã  <persName type="autorite">Virgile</persName> en latin, Ã  <persName type="autorite">Gessner</persName> en allemand<note type="bdp">Et sur la quatriÃ¨me face, en anglais, au poÃ¨te <persName type="autorite">James Thomson</persName>.</note>.</p>
+            <signed corresp="autreMain"><note type="pleinTexte">[Rajout suivant, dâune autre main,] </note>de <persName>Mlle Henriette Risteau</persName></signed>
+         </div>
+      </body>
+      </text>
+</TEI>
